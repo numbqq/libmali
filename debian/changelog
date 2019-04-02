@@ -1,3 +1,9 @@
+libmali-rk (1.6-2) testing; urgency=medium
+
+  * support arm64
+
+ -- Nick <nick@khadas.com>  Tue, 02 Apr 2019 15:31:52 +0800
+
 libmali-rk (1.6-1) testing; urgency=medium
 
   * mali: utgard: update to r7p0
